@@ -38,6 +38,10 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Netlify",
+    "imageSrc": "skills/netlify.png"
+  },
+  {
     "title": "Github",
     "imageSrc": "skills/github_logo.png"
   },
