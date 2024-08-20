@@ -1,0 +1,56 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/javaIcon.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python-logo.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql_logo.png"
+  },
+
+  {
+    "title": "Langchain",
+    "imageSrc": "skills/langchainIcon.png"
+  },
+  
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github_logo.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux_logo.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
+  }
+]

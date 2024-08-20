@@ -1,0 +1,39 @@
+.container {
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.projects {
+  margin-top: 37px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  width: 100%;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  scroll-behavior: smooth; /* Smooth scrolling effect */
+  padding-bottom: 10px; /* Prevent cut-off for scrollbars */
+}
+
+.projects::-webkit-scrollbar {
+  height: 8px; /* Adjust height of scrollbar */
+}
+
+.projects::-webkit-scrollbar-thumb {
+  background-color: var(--color-scrollbar); /* Customize scrollbar color */
+  border-radius: 4px; /* Rounded scrollbar */
+}
+
+.projectCard {
+  flex: 0 0 auto; /* Prevent the card from shrinking or growing */
+  width: 300px; /* Adjust width as per design */
+}

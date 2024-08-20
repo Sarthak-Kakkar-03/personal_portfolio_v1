@@ -1,0 +1,27 @@
+[
+    {
+      "role": "LLMOps Intern",
+      "organisation": "Wissen Infotech",
+      "startDate": "June, 2024",
+      "endDate": "August, 2024",
+      "experiences": [
+    "Created the architecture for a LLM-powered accelerator",
+    "Designed and implemented a multi-agent system for automated testing and error correction",
+    "Built a configurable chain-based codebase, improving testing and production efficiency by 30%",
+    "Led research efforts to fine-tune Large Language Models for specialized tasks"
+  ],
+      "imageSrc": "history/wissen_logo.png",
+      "link": "https://www.wissen.com/"
+    },
+    {
+      "role": "Intern",
+      "organisation": "Applify",
+      "startDate": "July, 2023",
+      "endDate": "August, 2023",
+      "experiences": ["Operated with the team to understand the implementation of Agile methodology using a Jira board", 
+      "Optimized structure management, reducing errors by 25%",
+    "Facilitated documenting meetings and developing subsequent sprint goals"],
+      "imageSrc": "history/applify_logo.png",
+      "link": "https://www.applify.co/"
+    }
+  ]
