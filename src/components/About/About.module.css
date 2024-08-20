@@ -41,11 +41,10 @@
     border-radius: 20px;
     list-style: none;
     padding: 25px;
-    flex-grow: 1; /* Allow the item to grow */
-    flex-basis: 0; /* Ensure it starts from 0 basis */
-    width: auto; /* Let the width be auto */
-    background-image: linear-gradient(90deg, rgba(165, 215, 232, 0.42) 0%,
-    rgba(255, 255, 255, 0) 100%);
+    flex-grow: 1; 
+    flex-basis: 0; 
+    width: auto; 
+    background-image: linear-gradient(90deg, rgba(165, 215, 232, 0.42) 0%, rgba(255, 255, 255, 0) 100%);
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
@@ -56,8 +55,8 @@
     display: flex;
     flex-direction: column;
     gap: 50px;
-    flex-grow: 1; /* Allow the container to expand */
-    width: 100%; /* Ensure full width usage */
+    flex-grow: 1; 
+    width: 100%; 
 }
 
 
@@ -80,11 +79,12 @@
     color: wheat;
 }
 
-@media  screen and (max-width: 830px) {
+@media screen and (max-width: 830px) {
     .container {
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
+        flex-direction: column; 
     }
 
     .content {
@@ -102,6 +102,22 @@
     .aboutItem {
         padding-left: 0;
         padding-right: 0;
+        flex-direction: column;
+        text-align: center; 
+    }
+
+    .title {
+        font-size: 30px;
+        margin-bottom: 10px;
     }
     
+    .subheading {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+
+    .aboutItem p {
+        font-size: 20px;
+        color: wheat;
+    }
 }
