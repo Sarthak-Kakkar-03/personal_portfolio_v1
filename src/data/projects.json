@@ -4,8 +4,8 @@
     "imageSrc": "projects/website.jpg",
     "description": "A personal portfolio website, showcasing my skills and experience.",
     "skills": ["JavaScript", "Node", "React", "HTML", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "/",
+    "source": "https://github.com/Sarthak-Kakkar-03/personal_portfolio_v1"
   },
   {
     "title": "Random Forest Weather Analysis",
