@@ -48,5 +48,7 @@
   .scrollSymbol {
     font: var(--font-robot);
     display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
