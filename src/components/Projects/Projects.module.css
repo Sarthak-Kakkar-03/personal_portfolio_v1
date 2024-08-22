@@ -24,6 +24,12 @@
   padding-bottom: 10px; /* Prevent cut-off for scrollbars */
 }
 
+.scrollSymbol {
+  font: var(--font-robot);
+  display: none;
+
+}
+
 .projects::-webkit-scrollbar {
   height: 8px; /* Adjust height of scrollbar */
 }
@@ -36,4 +42,11 @@
 .projectCard {
   flex: 0 0 auto; /* Prevent the card from shrinking or growing */
   width: 300px; /* Adjust width as per design */
+}
+
+@media screen and (max-width: 830px) {
+  .scrollSymbol {
+    font: var(--font-robot);
+    display: flex;
+  }
 }
