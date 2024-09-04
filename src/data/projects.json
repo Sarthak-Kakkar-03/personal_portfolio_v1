@@ -13,7 +13,7 @@
     "description": "Using random forest to classify weather conditions from an API.",
     "skills": ["Python", "Scikit-learn", "Random Forest"],
     "demo": "",
-    "source": ""
+    "source": "https://forms.gle/tjvitmyt8FVfRRcA6"
   },
   {
     "title": "EcoSim: Dynamic Predator-Prey Ecosystem",
@@ -21,7 +21,7 @@
     "description": "A C++ program simulating realistic predator-prey dynamics.",
     "skills": ["C++", "Linux", "OOP", "NCurses"],
     "demo": "",
-    "source": ""
+    "source": "https://forms.gle/tjvitmyt8FVfRRcA6"
   },
   {
     "title": "Battleship Game",
@@ -45,6 +45,6 @@
     "description": "A CLI based snake game made in C++ and deployed on Khoury Linux server.",
     "skills": ["C++", "Linux", "NCurses", "OOP"],
     "demo": "",
-    "source": ""
+    "source": "https://forms.gle/tjvitmyt8FVfRRcA6"
   }
 ]
