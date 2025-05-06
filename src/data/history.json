@@ -1,4 +1,19 @@
 [
+  {
+    "role": "Embedded Software Engineering Intern",
+    "organisation": "Movement NeuroScience Lab",
+    "startDate": "January, 2025",
+    "endDate": "June, 2025",
+    "experiences": [
+  "Built integrated stimulator–sensor–control system for precise data acquisition",
+  "Created modular, object‑oriented async API platform for flexible configurations",
+  "Added patient‑feedback optimization to visualization pipeline to improve outcomes",
+  "Led key development projects with cross‑functional teams to deliver innovative solutions"
+],
+    "imageSrc": "history/mnl_logo.png",
+    "link": "https://tuniklab.sites.northeastern.edu/"
+  },
+
     {
       "role": "LLMOps Intern",
       "organisation": "Wissen Infotech",
